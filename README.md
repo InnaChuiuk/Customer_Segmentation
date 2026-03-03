@@ -57,10 +57,10 @@ At Risk & Lost Customers:
 1. Data is located in the `/data` folder.
 2. The processing script can be viewed in `/jupyter`.
 3. SQL queries are available in `/SQL`.
-4. Interactive dashoards are in `/Power BI`
+4. Interactive dashoards are in `/Power BI`.
 
 
-![Фото Дашборду](Cudstomer_segmentation_en.png)
+![Фото Дашборду](Customer_segmentation_en.png)
 
 
 
