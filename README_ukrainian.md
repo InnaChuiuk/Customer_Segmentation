@@ -46,4 +46,4 @@
 4. Інтерактивний дашборд знаходиться у папці `/Power BI`.
 
 
-![Фото Дашборду](Customer_segmentation_ua.png)
+![Фото Дашборду](Customer_segmentation_UA.png)
