@@ -44,9 +44,11 @@ Although the **"Recent/Many orders"** segment is relatively small (283 customers
 Best Customers:
 * Offer exclusive rewards or early access to premium new arrivals.
 * Focus on building a VIP community to maintain high engagement and lifetime value.
+
 New Customers:
 * Send a personalized welcome email with a time-limited discount code.
 * Goal is to create a sense of urgency to encourage a second purchase and establish a buying habit.
+
 At Risk & Lost Customers:
 * Implement a "We miss you" email campaign with a soft reminder.
 * Avoid aggressive marketing, instead offer a small bonus or ask for feedback to identify why they stopped buying.
@@ -55,6 +57,7 @@ At Risk & Lost Customers:
 1. Data is located in the `/data` folder.
 2. The processing script can be viewed in `/jupyter`.
 3. SQL queries are available in `/SQL`.
+4. Interactive dashoards are in `/Power BI`
 
 
 ![Фото Дашборду](Cudstomer_segmentation_en.png)
