@@ -60,7 +60,7 @@ At Risk & Lost Customers:
 4. Interactive dashoards are in `/Power BI`.
 
 
-![Фото Дашборду](Customer_segmentation_en.png)
+![Фото Дашборду](Customer_segmentation_EN.png)
 
 
 
