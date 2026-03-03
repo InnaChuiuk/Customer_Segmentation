@@ -54,7 +54,7 @@ At Risk & Lost Customers:
 * Avoid aggressive marketing, instead offer a small bonus or ask for feedback to identify why they stopped buying.
 
 ## Description of project folders
-1. Data is located in the `/data` folder.
+1. Zip raw Data and Data after Python code is located in the `/data` folder.
 2. The processing script can be viewed in `/jupyter`.
 3. SQL queries are available in `/SQL`.
 4. Interactive dashoards are in `/Power BI`.
