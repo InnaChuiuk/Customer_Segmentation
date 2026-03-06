@@ -1,7 +1,7 @@
 # Customer_Segmentation
 
 ## Project overview
-Segmentation of an e-commerce customer base using RFM analysis (Recency, Frequency, Monetary). This approach helps identify loyal customers, detect those at risk of loosing, and develop personalized marketing strategies for each specific group.
+Segmentation of an e-commerce customer base using RFM analysis (Recency, Frequency, Monetary). This approach helps identify loyal customers, detect those at risk of losing, and develop personalized marketing strategies for each specific group.
 
 ## Tech Stack
 * **Python (Pandas, Jupyter):** Used for data cleaning, handling missing values, and initial data preprocessing.
@@ -25,7 +25,7 @@ Three key metrics were calculated for each customer:
 
 Each metric was assigned a score from 1 to 5 using quantiles and logical ranges.
 
-**Segmentstion**
+**Segmentation**
 The database was divided into 7 segments:
 * Best Customers (recent orders, many orders, and large checks)
 * New Customers (those who recently placed their first order)
