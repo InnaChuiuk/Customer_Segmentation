@@ -4,7 +4,7 @@
 Segmentation of an e-commerce customer base using RFM analysis (Recency, Frequency, Monetary). This approach helps identify loyal customers, detect those at risk of losing, and develop personalized marketing strategies for each specific group.
 
 ## Tech Stack
-* **Python (Pandas, Jupyter):** Used for data cleaning, handling missing values, and initial data preprocessing.
+* **Python (Pandas, Spyder):** Used for data cleaning, handling missing values, and initial data preprocessing.
 
 * **SQL (MS SQL Server):** Employed for calculating RFM metrics (Recency, Frequency, Monetary) and performing customer segmentation.
 
@@ -12,10 +12,10 @@ Segmentation of an e-commerce customer base using RFM analysis (Recency, Frequen
 
 ## Workflow
 **Data Cleaning (Python)**
-  * Removed missing Customer ID transactions.
-  * Filtered out canceled orders (identified by 'C' in the Invoice field).
-  * Handled null values.
-  * Converted Customer ID from float to integer to ensure proper table relationships.
+  * Removed missing values.
+  * Filtered columns Price and Quantity.
+  * Filtered out orders with unexpected Invoice number.
+  * Converted Customer ID from float to integer and column InvoiceDate to date type.
 
 **RFM Calculation (SQL)**
 Three key metrics were calculated for each customer:
@@ -55,7 +55,7 @@ At Risk & Lost Customers:
 
 ## Description of project folders
 1. Zip raw Data and Data after Python code is located in the `/data` folder.
-2. The processing script can be viewed in `/jupyter`.
+2. The Python code can be viewed in `/Python`.
 3. SQL queries are available in `/SQL`.
 4. Interactive dashoards are in `/Power BI`.
 
